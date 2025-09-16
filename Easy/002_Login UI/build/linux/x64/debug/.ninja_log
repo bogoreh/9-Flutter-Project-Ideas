@@ -1,0 +1,28 @@
+# ninja log v5
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/libflutter_linux_gtk.so	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_value.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/fl_view.h	1fb617c78bd8c901
+0	8392	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1fb617c78bd8c901
+0	8392	0	flutter/_phony_	1fb617c78bd8c901
+8393	8987	1758031773956405610	runner/CMakeFiles/loginui.dir/__/flutter/generated_plugin_registrant.cc.o	927193bbf3ae1600
+8392	9008	1758031773977405460	runner/CMakeFiles/loginui.dir/main.cc.o	a4268fa8288b98ec
+8393	9053	1758031774021405148	runner/CMakeFiles/loginui.dir/my_application.cc.o	9f1e5684e6d677cc
+9053	9205	1758031774177854967	intermediates_do_not_run/loginui	8c5abaa1beaa9cb6
+9205	9289	0	CMakeFiles/install.util	6d326463e9edf395

@@ -1,0 +1,13 @@
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/loginui
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/abdibogoreh/Documents/9 flutter project/Beginners/loginui/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
