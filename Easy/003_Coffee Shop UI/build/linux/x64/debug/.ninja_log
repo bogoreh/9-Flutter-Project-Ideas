@@ -1,0 +1,28 @@
+# ninja log v5
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/libflutter_linux_gtk.so	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_engine.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_value.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/fl_view.h	9892b1e2b5716955
+0	21072	0	/home/abdibogoreh/Documents/9 flutter project/Beginners/coffee/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	9892b1e2b5716955
+0	21072	0	flutter/_phony_	9892b1e2b5716955
+21072	22224	1758084807552079935	runner/CMakeFiles/coffee.dir/main.cc.o	bc73582d7ab06f5c
+21073	22257	1758084807584079823	runner/CMakeFiles/coffee.dir/__/flutter/generated_plugin_registrant.cc.o	d27207cacd21f6b9
+21073	22386	1758084807709079386	runner/CMakeFiles/coffee.dir/my_application.cc.o	bb2c7a292994045b
+22386	23225	1758084808553076435	intermediates_do_not_run/coffee	fbe253e54ef7d3a1
+23226	23647	0	CMakeFiles/install.util	f6bf76ca604bb749
