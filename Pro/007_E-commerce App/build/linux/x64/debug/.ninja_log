@@ -1,0 +1,28 @@
+# ninja log v5
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/libflutter_linux_gtk.so	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_value.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/fl_view.h	e2bfa8c973c09792
+0	4036	0	/home/abdibogoreh/Documents/9 flutter project/Pro/ecommerce/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e2bfa8c973c09792
+0	4036	0	flutter/_phony_	e2bfa8c973c09792
+4037	4658	1759556636729358365	runner/CMakeFiles/ecommerce.dir/__/flutter/generated_plugin_registrant.cc.o	973402794b53ace0
+4036	4682	1759556636752359191	runner/CMakeFiles/ecommerce.dir/main.cc.o	25e2365680d006c8
+4036	4734	1759556636802360985	runner/CMakeFiles/ecommerce.dir/my_application.cc.o	8174aaaf05ced74d
+4734	5040	1759556637113372142	intermediates_do_not_run/ecommerce	c80b95362d78106b
+5040	5122	0	CMakeFiles/install.util	6be8a23cda4e4777
