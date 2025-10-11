@@ -1,0 +1,28 @@
+# ninja log v5
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/libflutter_linux_gtk.so	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_engine.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_value.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/fl_view.h	182a6291b1cc1820
+0	5314	0	/home/abdibogoreh/Documents/9 flutter project/Pro/skype/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	182a6291b1cc1820
+0	5314	0	flutter/_phony_	182a6291b1cc1820
+5315	6098	1760188852907556360	runner/CMakeFiles/skype.dir/main.cc.o	665513e76e42ce0f
+5315	6101	1760188852907556360	runner/CMakeFiles/skype.dir/__/flutter/generated_plugin_registrant.cc.o	e9ece7399651f3c0
+5315	6182	1760188852989466891	runner/CMakeFiles/skype.dir/my_application.cc.o	1cb9fa2f65e0369b
+6182	6557	1760188853367967280	intermediates_do_not_run/skype	e1e9333c0ff963b4
+6557	6684	0	CMakeFiles/install.util	229f89ee5f9dbdc6
