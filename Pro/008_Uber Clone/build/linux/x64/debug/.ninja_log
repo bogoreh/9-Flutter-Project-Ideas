@@ -1,0 +1,28 @@
+# ninja log v5
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/libflutter_linux_gtk.so	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_engine.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_value.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/fl_view.h	bd242aef189c8e88
+0	12675	0	/home/abdibogoreh/Documents/9 flutter project/Pro/uber/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	bd242aef189c8e88
+0	12675	0	flutter/_phony_	bd242aef189c8e88
+12681	13879	1760168864952221625	runner/CMakeFiles/uber.dir/__/flutter/generated_plugin_registrant.cc.o	860be055157a89c9
+12675	13916	1760168864989223273	runner/CMakeFiles/uber.dir/main.cc.o	f89815972646004d
+12681	13981	1760168865053226145	runner/CMakeFiles/uber.dir/my_application.cc.o	2ed4590ec2c8fe41
+13981	14469	1760168865544248214	intermediates_do_not_run/uber	6fd07307d76c2c96
+14469	14641	0	CMakeFiles/install.util	9e0a2cb77daecb19

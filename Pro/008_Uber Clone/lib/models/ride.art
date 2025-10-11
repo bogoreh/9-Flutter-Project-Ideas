@@ -1,0 +1,43 @@
+class Ride {
+  final String id;
+  final String pickupAddress;
+  final String destinationAddress;
+  final double distance;
+  final double price;
+  final String rideType;
+  final DateTime requestTime;
+
+  Ride({
+    required this.id,
+    required this.pickupAddress,
+    required this.destinationAddress,
+    required this.distance,
+    required this.price,
+    required this.rideType,
+    required this.requestTime,
+  });
+
+  Map<String, dynamic> toMap() {
+    return {
+      'id': id,
+      'pickupAddress': pickupAddress,
+      'destinationAddress': destinationAddress,
+      'distance': distance,
+      'price': price,
+      'rideType': rideType,
+      'requestTime': requestTime.toIso8601String(),
+    };
+  }
+
+  factory Ride.fromMap(Map<String, dynamic> map) {
+    return Ride(
+      id: map['id'] ?? '',
+      pickupAddress: map['pickupAddress'] ?? '',
+      destinationAddress: map['destinationAddress'] ?? '',
+      distance: map['distance']?.toDouble() ?? 0.0,
+      price: map['price']?.toDouble() ?? 0.0,
+      rideType: map['rideType'] ?? '',
+      requestTime: DateTime.parse(map['requestTime'] ?? DateTime.now().toIso8601String()),
+    );
+  }
+}
